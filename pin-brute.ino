@@ -5,9 +5,7 @@
  *
  * ★ Modified & Enhanced by Nihal MP ★
  *   → Custom Command Input Field
- *   → Sonic Duck Payload (Default HID Payload)
  *   → Full Brute Force Control Panel
- *
  * Board: ESP32-S2 Mini (LOLIN S2 Mini)
  * Upload via USB-CDC (native USB)
  */
