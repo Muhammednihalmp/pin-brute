@@ -10,7 +10,7 @@
 ```
 pin-brute/
 ├── pin-brute.ino   ← Main Arduino sketch
-└── README.md               ← This file
+└── README.md       ← This file
 ```
 
 ---
