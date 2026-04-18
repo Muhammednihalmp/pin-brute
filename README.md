@@ -106,20 +106,6 @@ One-click buttons to open a terminal on the target machine via HID:
 
 ---
 
-### 🦔 Sonic Duck Payload
-A built-in default HID payload. Opens a CMD window (Windows) and displays:
-
-```
-=============================
-  SONIC SAYS: D U C K !
-  Created by Nihal MP
-=============================
-```
-
-Harmless demo payload — good for testing HID injection is working.
-
----
-
 ## 📊 Serial Monitor Output
 
 Connect via Serial Monitor at **115200 baud** to see live logs:
@@ -137,8 +123,6 @@ Open         : http://192.168.4.1
 [Nihal MP] Opening PowerShell...
 [Nihal MP] Sending custom command: whoami
 [Nihal MP] Custom command sent.
-[Nihal MP] Launching Sonic Duck Payload...
-[Nihal MP] Sonic Duck Payload done.
 [Nihal MP] Brute force complete — all PINs tried.
 ```
 
