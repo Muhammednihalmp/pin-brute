@@ -44,7 +44,7 @@ After flashing, the ESP32 creates a WiFi hotspot:
 
 | Setting | Value |
 |---------|-------|
-| WiFi Name (SSID) | `ESP32-BruteForce` |
+| WiFi Name (SSID) | `Pin-Brute` |
 | Password | `12345678` |
 | Portal URL | `http://192.168.4.1` |
 
