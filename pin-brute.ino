@@ -16,7 +16,7 @@
 #include <USBHIDKeyboard.h>
 
 // ─── Web Portal Credentials ───────────────────────────────────────────────────
-const char* AP_SSID     = "ESP32-BruteForce";
+const char* AP_SSID     = "Pin-Brute";
 const char* AP_PASSWORD = "12345678";   // Min 8 chars, change as needed
 
 // ─── Global State ─────────────────────────────────────────────────────────────
