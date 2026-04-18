@@ -9,7 +9,7 @@
 
 ```
 pin-brute/
-├── brute_force_nihal.ino   ← Main Arduino sketch
+├── pin-brute.ino   ← Main Arduino sketch
 └── README.md               ← This file
 ```
 
