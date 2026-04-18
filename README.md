@@ -27,7 +27,7 @@ pin-brute/
 
 ## ⚙️ Setup & Flash
 
-1. Open `brute_force_nihal.ino` in **Arduino IDE**
+1. Open `pin-brute.ino` in **Arduino IDE**
 2. Install board support:
    - Go to `File → Preferences → Additional Board URLs`
    - Add: `https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json`
